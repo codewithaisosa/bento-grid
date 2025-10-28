@@ -32,7 +32,7 @@ body {
   font-weight: 400;
   position: relative;
 }
-.body-container {
+main {
   min-height: 100dvh;
   position: absolute;
   top: 0;
@@ -95,7 +95,7 @@ h2 {
 .card-3 {
   position: relative;
   background-color: var(--color4);
-  min-height: 30px;
+  min-height: 3rem;
   img {
     position: relative;
     top: 30px;
@@ -136,7 +136,7 @@ h2 {
     top: -10px;
   }
   p {
-    margin: 0 1rem 0 0;
+    margin-right: 1rem;
     position: relative;
     top: -20px;
     margin: 0;
@@ -277,3 +277,4 @@ h2 {
     bottom: 0;
   }
 }
+
