@@ -1,0 +1,14 @@
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g7M8btVsD8Ck0q7u0-K6z8GXhnU0.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g7M8btVsD8CkGq7u0-K6z8GXhnU0.woff2) format('woff2');
+}
